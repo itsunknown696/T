@@ -8,10 +8,10 @@ class Config(object):
     # get a token from @BotFather
     pass
     """
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7311887300:AAEXI0vyipiSmhL-NR6THxfv6lpkGRjJe-Y")
-    API_ID = int(os.environ["API_ID", 23303247]
-    API_HASH = os.environ["API_HASH", "23623f737dc15708708c65a7297e1510"]
-    AUTH_USERS = "6931140424"""
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "8151740482:AAG46orK_MobFcPgEKoPypJAVqamQ42cJ00")
+    API_ID = int(os.environ["API_ID", 27238809]
+    API_HASH = os.environ["API_HASH", "c854867f7b27f65aebd41392eb2af1d9"]
+    AUTH_USERS = "6094798701"""
     WEBHOOK = True  # Don't change this
     PORT = int(os.environ.get("PORT", 8080))  # Default to 8000 if not set
 
